@@ -1,5 +1,3 @@
-console.log('hello world')
+import { runTask1 } from "./zad1/index.js";
 
-console.log(`dupa`)
-
-console.log(`dupa2`)
+runTask1();
