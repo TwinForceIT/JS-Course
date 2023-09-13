@@ -1,6 +1,6 @@
 {
   "name": "js-course",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This page is created for education purposes",
   "main": "index.js",
   "type": "module",

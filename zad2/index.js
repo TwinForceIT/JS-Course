@@ -27,8 +27,11 @@ function checkBook(title) {
   const found = bookArray.find((element) => element.tytul === title);
   console.log(found);
 }
+const title1 = "Bogaty Ojciec. Biedny Ojciec.";
+const title2 = "Inteligentny inwestor.";
+const title3 = "Jak zarobiłem 2 000 000 $ na giełdzie";
 
 export function runTask2() {
   addBook(book3);
-  checkBook("Inteligentny inwestor.");
+  checkBook(title3);
 }
